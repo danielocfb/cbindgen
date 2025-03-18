@@ -1,5 +1,5 @@
 [package]
-name = "cbindgen"
+name = "cbindgen-assoc-const"
 version = "0.28.0"
 authors = [
   "Emilio Cobos Álvarez <emilio@crisal.io>",
